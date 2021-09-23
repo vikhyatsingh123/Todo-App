@@ -1,0 +1,49 @@
+.main{
+    background-image: linear-gradient(to left,blue,rgb(60, 0, 255));
+    width: 100%;
+    height: 600px;
+}
+.todoImg{
+    margin-left: 45%;
+    width: 7%;
+    margin-top: 3%;
+}
+.todo-header{
+    margin-left: 41%;
+    color: coral;
+}
+.input-bar{
+    width: 30%;
+    border-radius: 20px;
+    margin-left: 32%;
+    margin-top: 3%;
+    border-style: none;
+}
+.add-btn{
+    width: 6%;
+    height: 40px;
+    margin-top: 3%;
+}
+.add-btn:hover{
+    cursor: pointer;
+}
+.lists{
+     margin-top: 5%;
+}
+.list1{
+    margin-left: 35%;
+    list-style-type: none;
+    color:rgb(195, 235, 19);
+    background-color: saddlebrown;
+    width: 25%;
+    height: 30px;
+    border-radius: 40px;
+}
+.delBtn{
+    float: right;
+    border-radius: 40px; 
+    font-weight: bolder;  
+}
+.delBtn:hover{
+    background-color: red;
+}
